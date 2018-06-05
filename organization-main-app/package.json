@@ -1,6 +1,6 @@
 {
   "name": "@organization/main-app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Main App",
   "main": "index.js",
   "author": "Stanimir Todorov",
