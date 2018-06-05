@@ -4,7 +4,7 @@
   "description": "My simple core package.",
   "author": "Stanimir Todorov",
   "license": "MIT",
-  "private": false,
+  "private": true,
   "devDependencies": {
     "babel-core": "6.26.3",
     "babel-eslint": "8.2.3",
