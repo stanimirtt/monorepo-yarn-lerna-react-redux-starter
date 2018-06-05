@@ -1,8 +1,8 @@
 {
-  "name": "@organization/main-app",
+  "name": "@webbatka/core-simple-package",
   "version": "1.0.1",
-  "description": "Main App",
-  "main": "index.js",
+  "main": "index.jsx",
+  "description": "My simple core package.",
   "author": "Stanimir Todorov",
   "license": "MIT",
   "devDependencies": {
@@ -29,10 +29,7 @@
   },
   "dependencies": {
     "babel-preset-stage-1": "6.24.1",
-    "lodash": "4.17.10",
     "react": "16.4.0",
-    "react-dom": "16.4.0",
-    "react-redux": "5.0.7",
-    "redux": "4.0.0"
+    "react-dom": "16.4.0"
   }
 }
